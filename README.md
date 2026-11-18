@@ -1,6 +1,6 @@
 # Hello Goose
 
-A small [Goose](https://github.com/naet001/hello-goose) program that prints a greeting.
+A small [Goose](https://aardappel.github.io/goose/docs/index.html) program that prints a greeting.
 
 ## Build and run
 
